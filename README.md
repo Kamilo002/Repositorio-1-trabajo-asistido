@@ -6,3 +6,7 @@ Repositorio para la clase de trabajo asistido
 <p align="center">
     <img src="ruta/imagen.png" alt="Descripción" width="500"/>
 </p>
+Python
+```python
+print("Hola mundo")
+```
